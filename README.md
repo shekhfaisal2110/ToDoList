@@ -21,7 +21,8 @@ A sleek and simple To-Do List application that helps you manage your tasks effic
 1. Clone this repository:
    ```bash
    git clone https://github.com/shekhfaisal2110/ToDoList.git
-   cd todo-list
+   
+   cd ToDoList
 
 2.Open index.html in your browser to view the app.
 
